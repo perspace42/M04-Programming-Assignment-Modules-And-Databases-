@@ -1,3 +1,11 @@
+'''
+Author: Scott Field
+Version: 1.0
+Date: 4/11/2023
+Program Name: createCSV
+Program Purpose: Create the csv file for storing data that will then be read by the Field_Scott_Jupyter_Modules_And_Databases.ipynb file
+'''
+
 #Import Statement
 import csv
 
